@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+<defs><clipPath id="cc"><circle cx="116" cy="116" r="112"/></clipPath></defs>
+<circle cx="119.92" cy="119.92" r="112" fill="#9E7B29"/>
+<g clip-path="url(#cc)"><rect x="-1" y="-1" width="234" height="234" fill="#D8AC42"/>
+<path d="M-1 -1 H196.64 L35.36 233 H-1 Z" fill="#F4C44E"/></g>
+<circle cx="116" cy="116" r="84.0" fill="none" stroke="#FAFAF5" stroke-width="12.32"/>
+<text x="116" y="170.9" font-family="DejaVu Sans, Arial, sans-serif" font-weight="bold" font-size="152.3" fill="#FAFAF5" stroke="#FAFAF5" stroke-width="3.36" text-anchor="middle">$</text>
+</svg>

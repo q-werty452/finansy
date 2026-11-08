@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Заставка: зелёный фон и монета по центру (как в оригинале) -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/splash_bg" />
+    <item>
+        <bitmap android:gravity="center" android:src="@drawable/splash_coin" />
+    </item>
+</layer-list>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#2E8B63"/>
+  <path d="M196 112 Q256 150 316 112 L292 176 L220 176 Z" fill="#E9A80F"/>
+  <rect x="210" y="170" width="92" height="28" rx="12" fill="#C98A06"/>
+  <path d="M220 196 C110 250 96 420 170 440 L342 440 C416 420 402 250 292 196 Z" fill="#FBC02D"/>
+  <path d="M320 210 C400 270 400 410 342 440 L300 440 C350 400 360 290 300 205 Z" fill="#E9A80F"/>
+  <text x="252" y="392" font-family="Roboto, Arial, sans-serif" font-weight="700" font-size="170" fill="#2E8B63" text-anchor="middle">$</text>
+</svg>
